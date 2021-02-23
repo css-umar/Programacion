@@ -1,5 +1,10 @@
 # Programación
 # [Características de python](https://github.com/css-umar/Programaci-n/wiki/Caracter%C3%ADsticas-de-Python)
+## [Identación](https://github.com/css-umar/Programaci-n/wiki/Identaci%C3%B3n)
+## [Comentarios](https://github.com/css-umar/Programaci-n/wiki/Comentarios)
 # [Algoritmo](https://github.com/css-umar/Programaci-n/wiki/Algoritmo)
 # [Variables, datos y operadores](https://github.com/css-umar/Programaci-n/wiki/Variables,-datos-y-operadores)
 # [Datos complejos](https://github.com/css-umar/Programaci-n/wiki/Datos-complejos)
+# [Estructuras de control condicionales](https://github.com/css-umar/Programaci-n/wiki/Estructuras-de-control-condicionales)
+# [Estructuras de control cíclicas](https://github.com/css-umar/Programaci-n/wiki/Estructuras-de-control-c%C3%ADclicas)
+# [Funciones](https://github.com/css-umar/Programaci-n/wiki/Funciones)
