@@ -2,6 +2,7 @@
 # [Características de python](https://github.com/css-umar/Programaci-n/wiki/Caracter%C3%ADsticas-de-Python)
 ## [Identación](https://github.com/css-umar/Programaci-n/wiki/Identaci%C3%B3n)
 ## [Comentarios](https://github.com/css-umar/Programaci-n/wiki/Comentarios)
+# [Cómo aprender a programar](https://github.com/css-umar/Programaci-n/wiki/C%C3%B3mo-aprender-a-programar)
 # [Algoritmo](https://github.com/css-umar/Programaci-n/wiki/Algoritmo)
 # [Variables, datos y operadores](https://github.com/css-umar/Programaci-n/wiki/Variables,-datos-y-operadores)
 # [Datos complejos](https://github.com/css-umar/Programaci-n/wiki/Datos-complejos)
