@@ -9,3 +9,4 @@
 # [Estructuras de control condicionales](https://github.com/css-umar/Programaci-n/wiki/Estructuras-de-control-condicionales)
 # [Estructuras de control cíclicas](https://github.com/css-umar/Programaci-n/wiki/Estructuras-de-control-c%C3%ADclicas)
 # [Funciones](https://github.com/css-umar/Programaci-n/wiki/Funciones)
+# [¿Cómo se hace?](https://github.com/css-umar/Programaci-n/wiki/%C2%BFC%C3%B3mo-se-hace%3F)
