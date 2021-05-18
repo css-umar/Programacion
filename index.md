@@ -1,3 +1,2 @@
-# Programación
 
 $$x^2$$
