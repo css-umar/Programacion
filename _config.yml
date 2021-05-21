@@ -2,11 +2,11 @@ title: Cristóbal Santos Santos
 description: My Personal Blog
 author: Cristóbal Santos Santos
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/css-umar/
 about: Universidad del Mar
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://css-umar.github.io/Programacion/"
+url: "https://css-umar.github.io/Programacion/"
 
 allowsearch: true
 
