@@ -1,3 +1,2 @@
 
-$$ax^2 + bx + c = 0$$
-
+![TeX](https://math.jekyllwriter.com/?q=x%5E2)
