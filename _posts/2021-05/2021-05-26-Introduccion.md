@@ -362,9 +362,9 @@ $\mathrm{H_2O}$   |$E = mc^2$
 
 muestra la siguiente tabla con fórmulas químicas y matemáticas:
 
-Fórmula química | Fórmula matemática
----             | ---
-$$\mathrm{H_2O}$$ | $$E = mc^2$  $
+|Fórmula química | Fórmula matemática|
+|---             | ---|
+|$$\mathrm{H_2O}$$ | $$E = mc^2$$|
 
 ### Tablas usando código html
 
@@ -397,8 +397,8 @@ Se usa el siguiente código html
 ```
 
 <table class="egt">
-  <tr><td>Tiempo $t(s)$</td> <td>$15$</td><td>20</td><td>22</td></tr>
-  <tr><td>Velocidad $v(m/s)$</td><td>365</td><td>520</td><td>600</td></tr>
+  <tr><td>Tiempo $$t(s)$$</td> <td>$15$</td><td>20</td><td>22</td></tr>
+  <tr><td>Velocidad $$v(m/s)$$</td><td>365</td><td>520</td><td>600</td></tr>
 </table>
 
 #### Tablas encabezado
