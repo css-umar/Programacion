@@ -277,6 +277,8 @@ La ecuación más famosa de Albert Einstein es `$E = mc^2$` <a href="https://www
 La fórmula general para resolver ecuaciones del tipo `$aX^2+bX + c$` <a href="https://www.codecogs.com/eqnedit.php?latex=aX^2&plus;bX&space;&plus;&space;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?aX^2&plus;bX&space;&plus;&space;c" title="aX^2+bX + c" /></a> 
 es:
 
+$$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+
 `$$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
 <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" title="x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
 
