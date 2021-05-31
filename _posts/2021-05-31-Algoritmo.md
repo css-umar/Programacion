@@ -43,7 +43,7 @@ FinAlgoritmo
 ```
 ### Diagrama de flujo
 
-![](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoChicahrronera.png)
+![ ](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoChicahrronera.png)
 
 
 ### Código python
