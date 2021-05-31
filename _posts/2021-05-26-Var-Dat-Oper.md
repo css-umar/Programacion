@@ -109,7 +109,7 @@ type(real), type(otro_real), type (otro real2)
 ```
 (float, float, float)
 ```
-Las constantes $\pi$ y $e$ son del tipo float
+Las constantes $$\pi$$ y $$e$$ son del tipo float.
 
 ```python
 import numpy as np
@@ -309,17 +309,13 @@ Evalúa si el valor del lado izquierdo es mayor o igual que el valor del lado de
 ## Operadores aritméticos
 Siempre hay que colocar un espacio en blanco, antes y después de un operador.
 
-<center>
-
 |Símbolo|Significado|
 |---|---|
 |+ |Suma|
 |-|Resta|
 |-|Negativo(negación)|
 |*|Multiplicación|
-|**|Exponente|
-|/|División|
+| ** |Exponente|
+|/ |División|
 |//|División entera|
 |%|Módulo|
-
-</center>
