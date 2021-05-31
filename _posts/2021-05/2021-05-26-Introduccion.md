@@ -296,8 +296,9 @@ $$\mathrm{CH_4 + 2\,O_2\rightarrow CO_2 + 2\,H_2O}$$
 ```
 muestra las reacciones químicas
 
-$$\mathrm{H_2O\,\rightleftarrows H_2 \plus \frac{1}{2}O_2} $$
-$$\mathrm{CH_4\,\plus\,2\,O_2\rightarrow\,CO_2\plus 2\,H_2O}$$
+$$\mathrm{H_2O\rightleftarrows H_2 + \frac{1}{2}O_2}$$
+
+$$\mathrm{CH_4 + 2\,O_2\rightarrow CO_2 + 2\,H_2O}$$
 
 
 También funciona en modo linea, por ejemplo, la fórmula del agua es $$\mathrm{H_2O}$$.
