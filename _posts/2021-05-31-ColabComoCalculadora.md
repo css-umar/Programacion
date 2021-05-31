@@ -28,8 +28,8 @@ El núcleo de Jupyter Notebook y Google Colaboratory es el lenguaje Python; por 
 Python puede manejar números enteros, racionales, irracionales, reales, imaginarios y complejos. Todos estos números se van a manejar en tres categorias, a saber:
 
 + Enteros positivos y negativos: Python los maneja como tipo *int*.
-> + Enteros poitivos: $\mathrm{(1,20,100, \text{etc})}$
-> + Enteros negativos: para indicar que un número es negativo se le antepone el guión medio "-", por ejemplo $\mathrm{(-1,-20,-100, \text{etc})}$. 
+> + Enteros poitivos: $$\mathrm{(1,20,100, \text{etc})}$$
+> + Enteros negativos: para indicar que un número es negativo se le antepone el guión medio "-", por ejemplo $$\mathrm{(-1,-20,-100, \text{etc})}$$. 
 
 
 ```python
@@ -67,7 +67,7 @@ Python puede manejar números enteros, racionales, irracionales, reales, imagina
 
 
 
-Los números se pueden almacenar (asignar) a una variable, para ello se usa el signo de igualdad $\mathrm{(=)}$.
+Los números se pueden almacenar (asignar) a una variable, para ello se usa el signo de igualdad $$\mathrm{(=)}$$.
 
 **Sintaxis**
 
@@ -94,7 +94,7 @@ Una vez asigando un valor a una varible, posteriormente se puede hacer uso de el
 
 
 
-+ Coma o punto flotante: Python los maneja como tipo *float*, y en esta categoría se agrupan a los números reales, racionales e irracionales, por ejemplo $\mathrm{(0.5,3.141516,6.5, \text{etc})}$. 
++ Coma o punto flotante: Python los maneja como tipo *float*, y en esta categoría se agrupan a los números reales, racionales e irracionales, por ejemplo $$\mathrm{(0.5,3.141516,6.5, \text{etc})}$$. 
 
 
 
@@ -134,7 +134,7 @@ Una vez asigando un valor a una varible, posteriormente se puede hacer uso de el
 
 
 
-+ Números complejos: Python los maneja como *complex*, y en esta categoría se agrupan los números imaginarios y complejos: $\mathrm{(3+5i,20i, \text{etc})}$. 
++ Números complejos: Python los maneja como *complex*, y en esta categoría se agrupan los números imaginarios y complejos: $$\mathrm{(3+5i,20i, \text{etc})}$$. 
 > + Para indicar que es un número imaginario se le debe agregar al final la letra j.
 
 
@@ -169,7 +169,7 @@ parte_real + parte_imaginariaj
 
 
 
-Asignemos a una variable el número complejo $\mathrm{3.0 + 5i}$:
+Asignemos a una variable el número complejo $$\mathrm{3.0 + 5i}$$:
 
 
 ```python
@@ -294,13 +294,13 @@ Para indicar las cuatro operaciones básicas, se usan los siguientes operadores:
 
 <dl>
   <dt>Suma</dt>
-  <dd>Se usa el símbolo $\mathrm{+}$ para realizar ésta operación.</dd>
+  <dd>Se usa el símbolo $$\mathrm{+}$$ para realizar ésta operación.</dd>
   <dt>Resta o sustración</dt>
-  <dd>Se usa el símbolo $\mathrm{-}$ para realizar ésta operación.</dd>
+  <dd>Se usa el símbolo $$\mathrm{-}$$ para realizar ésta operación.</dd>
   <dt>Multiplicación</dt>
-  <dd>Se usa el símbolo $\mathrm{\text{*}}$ para realizar ésta operación.</dd>
+  <dd>Se usa el símbolo $$\mathrm{\text{*}}$$ para realizar ésta operación.</dd>
   <dt>División</dt>
-  <dd>Se usa el símbolo $\mathrm{/}$ para realizar ésta operación.</dd>    
+  <dd>Se usa el símbolo $$\mathrm{/}$$ para realizar ésta operación.</dd>    
 </dl>
 
 
@@ -361,7 +361,7 @@ b / a
 
 #### Potencias
 
-Para realizar la potenciación $(x^y)$ se utiliza el operador $\mathrm{**}$
+Para realizar la potenciación $(x^y)$ se utiliza el operador $$\mathrm{**}$$
 
 
 
@@ -394,7 +394,7 @@ x**3
 
 
 
-En el caso de potencias inversas $\dfrac{1}{a^b}$, se usan exponentes negativos. Recuerde que:
+En el caso de potencias inversas $$\dfrac{1}{a^b}$$, se usan exponentes negativos. Recuerde que:
 
 $$\dfrac{1}{a^b} = a^{-b}$$
 
@@ -507,7 +507,7 @@ a**(1/2)
 
 #### Cociente
 
-Para obtener el cociente de una división se usa el operador $\mathrm{//}$.
+Para obtener el cociente de una división se usa el operador $$\mathrm{//}$$.
 
 
 ```python
@@ -625,7 +625,7 @@ $$ 1 $$
 
 Las operaciones que estén agrupadas dentro de paréntesis tienen mayor prioridad. Sin embargo, las operaciones dentro del paréntesis deben obedecer a la jerarquía de operaciones.
 
-Considerando las operaciones anteriores, pero agrupando $(4+8\times 2)$
+Considerando las operaciones anteriores, pero agrupando $$(4+8\times 2)$$
 
 $$(4+8\times 2)\div 4-3^2+\sqrt{4}$$
 
