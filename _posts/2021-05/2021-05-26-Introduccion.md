@@ -272,7 +272,7 @@ Para editar ecuaciones se usa código _Latex_. Existen dos formas en las cuales 
 
 **Ejemplo**:
 
-La ecuación más famosa de Albert Einstein es $E = mc^2$ (`$E = mc^2$`), la ecuación de la relatividad.
+La ecuación más famosa de Albert Einstein es $$E = mc^2$$ (`$E = mc^2$`), la ecuación de la relatividad.
 
 La fórmula general para resolver ecuaciones del tipo `$aX^2+bX + c$` <a href="https://www.codecogs.com/eqnedit.php?latex=aX^2&plus;bX&space;&plus;&space;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?aX^2&plus;bX&space;&plus;&space;c" title="aX^2+bX + c" /></a> 
 es:
