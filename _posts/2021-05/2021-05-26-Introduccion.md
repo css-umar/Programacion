@@ -274,14 +274,11 @@ Para editar ecuaciones se usa código _Latex_. Existen dos formas en las cuales 
 
 La ecuación más famosa de Albert Einstein es $$E = mc^2$$ (`$E = mc^2$`), la ecuación de la relatividad.
 
-La fórmula general para resolver ecuaciones del tipo `$aX^2+bX + c$` <a href="https://www.codecogs.com/eqnedit.php?latex=aX^2&plus;bX&space;&plus;&space;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?aX^2&plus;bX&space;&plus;&space;c" title="aX^2+bX + c" /></a> 
-es:
+La fórmula general para resolver ecuaciones del tipo $$aX^2+bX + c$$(`$aX^2+bX + c$`) es:
 
 $$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 `$$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
-<a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" title="x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
-
 Consulte [Overleaf](https://es.overleaf.com/learn/latex/Mathematical_expressions) para mayores detalles de cómo editar expresiones matemáticas.
 
 ### Edición de ecuaciones químicas
@@ -303,7 +300,7 @@ muestra las reacciones químicas
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mathrm{CH_4&space;&plus;&space;2\,O_2\rightarrow&space;CO_2&space;&plus;&space;2\,H_2O}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathrm{CH_4&space;&plus;&space;2\,O_2\rightarrow&space;CO_2&space;&plus;&space;2\,H_2O}" title="\mathrm{CH_4 + 2\,O_2\rightarrow CO_2 + 2\,H_2O}" /></a>
 
 
-También funciona en modo linea, por ejemplo, la fórmula del agua es $\mathrm{H_2O}$.
+También funciona en modo linea, por ejemplo, la fórmula del agua es $$\mathrm{H_2O}$$.
 
 ## Edición de tablas
 
