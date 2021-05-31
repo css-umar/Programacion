@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduccion"
+title:  "Introducción a la edición de texto en Google Colaboratory"
 date:   2021-05-26 13:50:39
-categories: jekyll
+categories: Edición
 ---
 
 
