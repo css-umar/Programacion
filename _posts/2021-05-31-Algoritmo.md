@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comentarios"
+title:  "Algoritmo"
 date:   2021-05-31 16:40:39
 categories: Edición
 ---
