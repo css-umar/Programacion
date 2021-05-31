@@ -279,6 +279,7 @@ La fórmula general para resolver ecuaciones del tipo $$aX^2+bX + c$$(`$aX^2+bX 
 $$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 `$$x = \dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
+
 Consulte [Overleaf](https://es.overleaf.com/learn/latex/Mathematical_expressions) para mayores detalles de cómo editar expresiones matemáticas.
 
 ### Edición de ecuaciones químicas
@@ -295,9 +296,8 @@ $$\mathrm{CH_4 + 2\,O_2\rightarrow CO_2 + 2\,H_2O}$$
 ```
 muestra las reacciones químicas
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathrm{H_2O\rightleftarrows&space;H_2&space;&plus;&space;\frac{1}{2}O_2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathrm{H_2O\rightleftarrows&space;H_2&space;&plus;&space;\frac{1}{2}O_2}" title="\mathrm{H_2O\rightleftarrows H_2 + \frac{1}{2}O_2}" /></a>
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathrm{CH_4&space;&plus;&space;2\,O_2\rightarrow&space;CO_2&space;&plus;&space;2\,H_2O}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathrm{CH_4&space;&plus;&space;2\,O_2\rightarrow&space;CO_2&space;&plus;&space;2\,H_2O}" title="\mathrm{CH_4 + 2\,O_2\rightarrow CO_2 + 2\,H_2O}" /></a>
+$$\mathrm{H_2O\,\rightleftarrows H_2 \plus \frac{1}{2}O_2} $$
+$$\mathrm{CH_4\,\plus\,2\,O_2\rightarrow\,CO_2\plus 2\,H_2O}$$
 
 
 También funciona en modo linea, por ejemplo, la fórmula del agua es $$\mathrm{H_2O}$$.
