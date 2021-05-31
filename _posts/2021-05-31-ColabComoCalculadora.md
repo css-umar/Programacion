@@ -361,7 +361,7 @@ b / a
 
 #### Potencias
 
-Para realizar la potenciación $(x^y)$ se utiliza el operador $$\mathrm{**}$$
+Para realizar la potenciación $$(x^y)$$ se utiliza el operador $$\mathrm{**}$$
 
 
 
