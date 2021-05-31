@@ -364,7 +364,7 @@ muestra la siguiente tabla con fórmulas químicas y matemáticas:
 
 Fórmula química | Fórmula matemática
 ---             | ---
-$\mathrm{H_2O}$ | $E = mc^2$  
+$$\mathrm{H_2O}$$ | $$E = mc^2$  $
 
 ### Tablas usando código html
 
