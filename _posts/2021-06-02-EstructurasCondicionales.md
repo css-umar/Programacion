@@ -2,7 +2,7 @@
 layout: post
 title:  "Estructuras de control condicionales"
 date:   2021-05-31 16:40:39
-categories: Edición
+categories: Estructuras
 ---
 
 # Estructuras de control condicionales
