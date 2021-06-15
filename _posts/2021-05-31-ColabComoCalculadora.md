@@ -28,7 +28,7 @@ El núcleo de Jupyter Notebook y Google Colaboratory es el lenguaje Python; por 
 Python puede manejar números enteros, racionales, irracionales, reales, imaginarios y complejos. Todos estos números se van a manejar en tres categorias, a saber:
 
 + Enteros positivos y negativos: Python los maneja como tipo *int*.
-> + Enteros poitivos: $$\mathrm{(1,20,100, \text{etc})}$$
+> + Enteros poitivos: \(\mathrm{(1,20,100, \text{etc})}\)
 > + Enteros negativos: para indicar que un número es negativo se le antepone el guión medio "-", por ejemplo $$\mathrm{(-1,-20,-100, \text{etc})}$$. 
 
 
