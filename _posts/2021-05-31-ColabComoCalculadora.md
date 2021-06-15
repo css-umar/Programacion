@@ -268,18 +268,14 @@ type(numero_complejo)
 
 Para indicar las cuatro operaciones básicas, se usan los siguientes operadores:
 
-
-<dl>
-  <dt>Suma</dt>
-  <dd>Se usa el símbolo $$\mathrm{+}$$ para realizar ésta operación.</dd>
-  <dt>Resta o sustración</dt>
-  <dd>Se usa el símbolo $$\mathrm{-}$$ para realizar ésta operación.</dd>
-  <dt>Multiplicación</dt>
-  <dd>Se usa el símbolo $$\mathrm{\text{*}}$$ para realizar ésta operación.</dd>
-  <dt>División</dt>
-  <dd>Se usa el símbolo $$\mathrm{/}$$ para realizar ésta operación.</dd>    
-</dl>
-
+> **Suma**
+>> Se usa el símbolo $$\mathrm{+}$$ para realizar ésta operación.
+> **Resta o sustracción**
+>> Se usa el símbolo $$\mathrm{-}$$ para realizar ésta operación.
+> **Multiplicación**
+>> Se usa el símbolo $$\mathrm{\text{*}}$$ para realizar ésta operación.
+> **División**
+>> Se usa el símbolo $$\mathrm{/}$$ para realizar ésta operación.
 
 ```python
 a = 5
