@@ -587,7 +587,7 @@ $$ -1 + 2 $$
 
 $$ 1 $$
 
-**¡Veamos cómo qué resultado arroja Pyhton!**
+**¡Veamos qué resultado arroja Pyhton!**
 
 
 ```python
