@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Cómo aprender a programar?
+title: Acerca de
 permalink: /About/
 ---
 
