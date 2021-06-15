@@ -6,17 +6,17 @@
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "Acerca de ",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Proyectos",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "Resumen",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
