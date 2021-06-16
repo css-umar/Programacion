@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uso de Jupyter Notebook o Google Colaboratory como calculadora"
-date:   2021-05-31 14:52:39
+date:   2021-06-15 14:52:39
 categories: jekyll
 ---
 
