@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducción a la edición de texto en Google Colaboratory"
-date:   2021-05-26 13:50:39
+date:   2021-06-16 13:50:39
 categories: Edición
 ---
 
