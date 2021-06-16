@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducción a la edición de texto en Google Colaboratory"
+title:  "Cómo aprender a programar: Un método de cinco pasos"
 date:   2021-06-16 13:50:39
 categories: Edición
 ---
@@ -113,9 +113,13 @@ Como se comentó anteriormente, el objetivo de este escrito es presentar una est
 
 
 **Paso 1**: Definir el problema.
+
 **Paso 2**: Generar posibles soluciones.
+
 **Paso 3**: Decidir el curso de acción.
+
 **Paso 4**: Implementar la solución.
+
 **Paso 5**: Evaluar la solución.
 
 Para entender el problema (**Fase I**), primero hay que definirlo (**Paso 1** de Flogler y Leblanc), es decir, saber en qué consiste el problema, con qué información se cuenta, qué información hace falta, qué restricciones presenta, identificar qué resultados se desean obtener, examinar si existen problemas similares.
@@ -135,11 +139,17 @@ Para definir cuál es la situación actual y poder visualizar el objetivo del pr
 > 1. Analizar la información proporcionada: se sabe que la función es del tipo cuadrática $$(ax^2 +bx+c= 0)$$ con $$a= 1$$, $$b$$ y $$c$$ igual con cero. Su gráfica es una parábola que abre hacia arriba porque $a \geq 0$, además para funciones del tipo $f(x) =ax^2$ el vértice está en el origen.
 
 > 2. Restricciones: la búsqueda del mínimo de la función se restringe al intervalo $$− 5 \leq x \leq 5$$.
+
 > 3. Buscar información complementaria. Por ejemplo:
+
 >> + Conceptos relevantes.
+
 >>> + Mínimo: Valor más pequeño que acepta o puede tomar una variable[1].
+
 >>> + Vértice de una parábola: es el punto más bajo o más alto en una parábola.
+
 >> + Algoritmos: Verificar si ya existen algoritmos para resolver problemas de este tipo.
+
 >>> + Aplicar el teorema sobre el valor máximo o mínimo de una función cuadrática[3].
 
 
