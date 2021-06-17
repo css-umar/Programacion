@@ -302,7 +302,7 @@ th.Paso{
   width:30%
 }
 
-th.Instrucción{
+th.Instruccion{
   width:70%
 }
 table.center {
@@ -326,7 +326,7 @@ table.center {
   <thead>
     <tr>
       <th class="Paso">Paso</th>
-      <th class="Instrucción">Instrucción</th>      
+      <th class="Instruccion">Instrucción</th>      
     </tr>
   </thead>
   <tbody>
