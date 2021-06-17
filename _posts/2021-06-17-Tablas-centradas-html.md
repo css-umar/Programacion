@@ -5,6 +5,8 @@ date:   2021-06-17 16:40:39
 categories: HTML
 ---
 
+  **Negrita**
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -48,8 +50,8 @@ table.center {
     <td>80</td>
   </tr>
 </table>
-  
-  **Negrita**
 
 </body>
 </html>
+
+  **Negrita**
