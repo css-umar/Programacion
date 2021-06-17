@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Estructuras de control ciclicas"
+title:  "Estructuras de control cíclicas"
 date:   2021-06-08 16:40:39
 categories: Estructuras
 ---
