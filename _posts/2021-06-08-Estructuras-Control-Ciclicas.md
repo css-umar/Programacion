@@ -6,20 +6,6 @@ date:   2021-06-08 16:40:39
 categories: Estructuras
 ---
 
-<html>
-<head>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
-      }
-    });
-  </script>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 	
-</body>
-</html>
-
 # Estructuras de control cíclicas
 
 Este tipo de estructuras permiten ejecutar de manera repetida una sección de intrucciones, mientras se cumpla una condición.
@@ -164,7 +150,7 @@ else:
 
 ### Ejemplo de la estructura while controlado por conteo:
 
-Dados los n números $ \{ x_{1},x_{2},\ldots ,x_{n} \} $, la media aritmética se define como:
+Dados los n números $$ \{ x_{1},x_{2},\ldots ,x_{n} \} $$, la media aritmética se define como:
 
 $$\bar {x} = \frac{1}{n}\sum_{i=1}^{n}{x_i}=\dfrac{x_1+x_2+\ldots+x_n}{n} $$ 
 
@@ -176,7 +162,7 @@ $$\bar {x} = \frac{1}{n}\sum_{i=1}^{n}{x_i}=\dfrac{x_1+x_2+\ldots+x_n}{n} $$
 
 > ¿Qué tipos de datos se ocupan para calcular la media aritmética?
 
->> Se ocupan datos numéricos, del tipo _int_ para $n$, y del tipo _float_ para los elementos de la serie de datos.
+>> Se ocupan datos numéricos, del tipo _int_ para $$n$$, y del tipo _float_ para los elementos de la serie de datos.
 
 
 ```python
