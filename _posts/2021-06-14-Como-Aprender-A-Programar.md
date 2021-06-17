@@ -298,13 +298,6 @@ table, th, td {
   padding: 16px;
 }
 
-th.Paso{
-  width:"30%"
-}
-
-th.Instruccion{
-  width:"70%"
-}
 table.center {
   margin-left: auto; 
   margin-right: auto;
