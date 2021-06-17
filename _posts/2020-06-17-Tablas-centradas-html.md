@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tablas centradas en html"
-date:   2021-06-17 16:40:39
-categories: HTML
+title:  "Tablas centradas, utilizando  html"
+date:   2020-06-17 16:40:39
+categories: cómo se hace
 ---
 
   **Negrita**
