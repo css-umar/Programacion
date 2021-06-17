@@ -75,7 +75,7 @@ else:
 
 ### Ejemplo de la estructura: if elif else
 
-![](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoAlumno.png)
+<img src="https://raw.githubusercontent.com/css-umar/Programacion/master/images/AlgoritmoAlumno.png" width="70%">
 
 ```python
 """
@@ -107,8 +107,8 @@ else:
 ```python
 
 ```
+<img src="https://raw.githubusercontent.com/css-umar/Programacion/master/images/AlgoritmoSupermercado.png" width="70%">
 
-![](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoSupermercado.png)
 
 ### Ejemplo de la estructura: if 
 
@@ -145,5 +145,5 @@ if promedio > 8.5:
     Calificacion del parcial 3: 9
     Exento
     
+<img src="https://raw.githubusercontent.com/css-umar/Programacion/master/images/AlgoritmoExento.png" width="70%">
 
-![](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoExento.png)
