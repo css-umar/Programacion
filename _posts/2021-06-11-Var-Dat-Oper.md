@@ -319,17 +319,3 @@ Siempre hay que colocar un espacio en blanco, antes y después de un operador.
   <tr><td style = "width:30%"> // </td><td style = "width:70%"> División entera </td></tr>
   <tr><td style = "width:30%"> % </td><td style = "width:70%"> Módulo </td></tr>
 </table>
-
-
-<table class="center">
-|Símbolo|Significado|
-|---|---|
-|+ |Suma|
-|-|Resta|
-|-|Negativo(negación)|
-|*|Multiplicación|
-| ** |Exponente|
-|/ |División|
-|//|División entera|
-|%|Módulo|
-</table>
