@@ -291,12 +291,47 @@ table.center {
 </html>
 
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 80%;
+  text-align: left;
+  padding: 16px;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+</style>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+</head>
+<body>
+
+<h2>Center a Table</h2>
+<p>To center a table, set left and right margin to auto:</p>
+
 <table class="egt">
   <caption>Tabla 2: Paso para implementar la Solución 1.</caption>
-  <tr><td>Paso 1</td><td>Evaluar $$f(x)=x^2$$ en cada uno de los elementos del intervalo $$-5\leq x \leq 5$$.</td></tr>
-  <tr><td>Paso 2</td><td>Ordenar de menor a mayor el valor que tomó $$f(x)=x^2$$ en el Paso 1. </td></tr>
+  <tr><td>Paso 1</td><td>Evaluar $f(x)=x^2$ en cada uno de los elementos del intervalo $-5\leq x \leq 5$.</td></tr>
+  <tr><td>Paso 2</td><td>Ordenar de menor a mayor el valor que tomó $f(x)=x^2$ en el Paso 1. </td></tr>
   <tr><td>Paso 3</td><td>Seleccionar el menor valor como el mínimo de la función. </td></tr>
 </table>
+  
+</body>
+</html>
 
 <table class="egt">
   <caption>Tabla 3: Paso para implementar la Solución 2.</caption>
