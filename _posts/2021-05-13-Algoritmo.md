@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Algoritmo"
-date:   2021-05-31 16:40:39
-categories: Edición
+date:   2021-05-13 16:40:39
+categories: Programación
 ---
 
 # Algoritmo
@@ -43,6 +43,7 @@ FinAlgoritmo
 ```
 ### Diagrama de flujo
 
+<img src="https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoChicahrronera.png?raw=true" width="50%">
 ![Chicharronera](https://github.com/css-umar/Programacion/blob/master/images/AlgoritmoChicahrronera.png?raw=true);
 
 
