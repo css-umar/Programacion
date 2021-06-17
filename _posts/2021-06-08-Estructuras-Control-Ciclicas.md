@@ -1,4 +1,11 @@
 
+---
+layout: post
+title:  "Estructuras de control cíclicas"
+date:   2021-06-08 16:40:39
+categories: Estructuras
+---
+
 <html>
 <head>
 <script type="text/x-mathjax-config">
@@ -11,14 +18,7 @@
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 	
 </body>
-</html>	
-
----
-layout: post
-title:  "Estructuras de control cíclicas"
-date:   2021-06-08 16:40:39
-categories: Estructuras
----
+</html>
 
 # Estructuras de control cíclicas
 
