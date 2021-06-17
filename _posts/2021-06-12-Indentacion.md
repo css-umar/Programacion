@@ -5,7 +5,7 @@ date:   2021-06-12 16:40:39
 categories: Edición
 ---
 
-# Identación
+# Indentación
 
 **¿Qué es la indentación?** 
 
