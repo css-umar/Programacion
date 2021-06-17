@@ -353,13 +353,13 @@ table.center {
   <tr><td style = "width:30%">Paso 3</td><td style = "width:70%">Hacer $f^'(x)=0$</td></tr>
   <tr><td style = "width:30%">Paso 4</td><td style = "width:70%">Resolver para la variable independiente $x$</td></tr>
   <tr><td style = "width:30%">Paso 5</td><td style = "width:70%">Evaluar $$f^{''}(x)$$ en las raíces obtenidas en el Paso 4.</td></tr>
-  <tr><tdstyle = "width:30%">(a):</td><td style = "width:70%">Si $f^{''}(x)>0$ la función tienen un mínimo en $m(x_i,f(x_i))$</td></tr>
-  <tr><tdstyle = "width:30%">(b):</td><td style = "width:70%">Si $f^{''}(x)<0$ la función tienen un máximo en $M(x_i,f(x_i))$</td></tr>
+  <tr><td style = "width:30%">(a):</td><td style = "width:70%">Si $f^{''}(x)>0$ la función tienen un mínimo en $m(x_i,f(x_i))$</td></tr>
+  <tr><td style = "width:30%">(b):</td><td style = "width:70%">Si $f^{''}(x)<0$ la función tienen un máximo en $M(x_i,f(x_i))$</td></tr>
 </table>
 
 <table class="egt">
   <caption>Tabla 5: Paso para implementar la Solución 4.</caption>
-  <tr><td>Paso 1</td><td>El vértice para ecuaciones cuadráticas de la forma $$f(x)=ax^2$$ con $$a>0$ están en el origen.</td></tr>
+  <tr><td style = "width:30%">Paso 1</td><td style = "width:70%">El vértice para ecuaciones cuadráticas de la forma $$f(x)=ax^2$$ con $$a>0$ están en el origen.</td></tr>
 </table>
 
 
