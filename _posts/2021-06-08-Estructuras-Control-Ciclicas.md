@@ -4,6 +4,22 @@ title:  "Estructuras de control cíclicas"
 date:   2021-06-08 16:40:39
 categories: Estructuras
 ---
+<html>
+<head>
+</style>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 	
+</body>
+</html>
+	
+	
 
 # Estructuras de control cíclicas
 
