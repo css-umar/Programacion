@@ -248,6 +248,9 @@ Ley 90/
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+  padding: 16px;
 }
 
 table.center {
