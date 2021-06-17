@@ -323,9 +323,17 @@ table.center {
 <body>
 <table class="center">
   <caption>Tabla 2: Paso para implementar la Solución 1.</caption>
-  <tr><td>Paso 1</td><td>Evaluar $f(x)=x^2$ en cada uno de los elementos del intervalo $-5\leq x \leq 5$.</td></tr>
-  <tr><td>Paso 2</td><td>Ordenar de menor a mayor el valor que tomó $f(x)=x^2$ en el Paso 1. </td></tr>
-  <tr><td>Paso 3</td><td>Seleccionar el menor valor como el mínimo de la función. </td></tr>
+  <thead>
+    <tr>
+      <th class="Paso">Paso</th>
+      <th class="Instrucción">Instrucción</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Paso 1</td><td>Evaluar $f(x)=x^2$ en cada uno de los elementos del intervalo $-5\leq x \leq 5$.</td></tr>
+  <tr><td>Paso 2</td><td>Ordenar de menor a mayor el valor que tomó $f(x)=x^2$ en el Paso 1. </td></tr>  
+  <tr><td>Paso 3</td><td>Seleccionar el menor valor como el mínimo de la función. </td></tr>    
+  </tbody>  
 </table>  
 </body>
 </html>
