@@ -6,7 +6,6 @@ categories: Estructuras
 ---
 <html>
 <head>
-</style>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
