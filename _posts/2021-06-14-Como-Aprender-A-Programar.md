@@ -332,6 +332,13 @@ table.center {
 </html>
 
 <table class="egt">
+<caption>Tabla 2: Paso para implementar la Solución 1.</caption>
+<tr><td style = "width:30%">Paso 1</td><td style = "width:70%">Evaluar $f(x)=x^2$ en cada uno de los elementos del intervalo $-5\leq x \leq 5$.</td></tr>
+<tr><td style = "width:30%">Paso 2</td><td style = "width:70%">Ordenar de menor a mayor el valor que tomó $f(x)=x^2$ en el Paso 1. </td></tr>  
+<tr><td style = "width:30%">Paso 3</td><td style = "width:70%">Seleccionar el menor valor como el mínimo de la función. </td></tr>    
+</table>
+
+<table class="egt">
   <caption>Tabla 3: Paso para implementar la Solución 2.</caption>
   <tr><td style = "width:30%">Paso 1</td><td style = "width:70%">Calcular $x_v = -b/2a$.</td></tr>
   <tr><td style = "width:30%">Paso 2</td><td style = "width:70%">Evaluar $f(x_v)$. </td></tr>
