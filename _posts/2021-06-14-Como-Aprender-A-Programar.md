@@ -340,10 +340,10 @@ table.center {
 
 <table class="egt">
   <caption>Tabla 3: Paso para implementar la Solución 2.</caption>
-  <tr><td width="30%">Paso 1</td><td width="70%">Calcular $$x_v = -b/2a$$.</td></tr>
-  <tr><td width="30%">Paso 2</td><td width="70%">Evaluar $$f(x_v)$$. </td></tr>
-  <tr><td width="30%">Paso 3</td><td width="70%">Si $$a>0$$ la función tiene un mínimo en $$x_v$$</td></tr>
-  <tr><td width="30%">Paso 4</td><td width="70%">Si $$a<0$$ la función tiene un máximo en $$x_v$$</td></tr>
+  <tr><td style = "width:30%">Paso 1</td><td style = "width:70%">Calcular $$x_v = -b/2a$$.</td></tr>
+  <tr><td style = "width:30%">Paso 2</td><td style = "width:70%">Evaluar $$f(x_v)$$. </td></tr>
+  <tr><td style = "width:30%">Paso 3</td><td style = "width:70%">Si $$a>0$$ la función tiene un mínimo en $$x_v$$</td></tr>
+  <tr><td style = "width:30%">Paso 4</td><td style = "width:70%">Si $$a<0$$ la función tiene un máximo en $$x_v$$</td></tr>
 </table>
 
 <table class="egt">
