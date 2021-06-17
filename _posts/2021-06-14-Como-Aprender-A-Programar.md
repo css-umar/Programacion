@@ -242,7 +242,7 @@ Ley 90/
 ## 4. Anexo: Tablas
 
 
-<table class="center"">
+<table class="egt"">
   <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
   <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $$x_v$$ </th><th> $$f(x_v)$$ </th><th >Pantalla            </th></tr>
   <tr><th>Leer a                   </th><td>           </td><td> 1 </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
