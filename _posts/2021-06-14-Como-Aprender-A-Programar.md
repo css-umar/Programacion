@@ -136,11 +136,11 @@ Se desea encontrar el mínimo de la función $$f(x) =x^2$$ para cuando $$− 5 \
 
 Para definir cuál es la situación actual y poder visualizar el objetivo del problema (estado final), en este paso se tiene que:
 
-> 1. Analizar la información proporcionada: se sabe que la función es del tipo cuadrática $$(ax^2 +bx+c= 0)$$ con $$a= 1$$, $$b$$ y $$c$$ igual con cero. Su gráfica es una parábola que abre hacia arriba porque $a \geq 0$, además para funciones del tipo $f(x) =ax^2$ el vértice está en el origen.
+> + Analizar la información proporcionada: se sabe que la función es del tipo cuadrática $$(ax^2 +bx+c= 0)$$ con $$a= 1$$, $$b$$ y $$c$$ igual con cero. Su gráfica es una parábola que abre hacia arriba porque $a \geq 0$, además para funciones del tipo $f(x) =ax^2$ el vértice está en el origen.
 
-> 2. Restricciones: la búsqueda del mínimo de la función se restringe al intervalo $$− 5 \leq x \leq 5$$.
+> + Restricciones: la búsqueda del mínimo de la función se restringe al intervalo $$− 5 \leq x \leq 5$$.
 
-> 3. Buscar información complementaria. Por ejemplo:
+> + Buscar información complementaria. Por ejemplo:
 
 >> + Conceptos relevantes.
 
