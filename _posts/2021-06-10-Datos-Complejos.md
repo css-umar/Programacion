@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Datos complejos"
-date:   2021-05-31 16:40:39
+date:   2021-06-10 16:40:39
 categories: Tipos de datos
 ---
 
