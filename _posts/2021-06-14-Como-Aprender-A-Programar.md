@@ -269,10 +269,6 @@ table.center {
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 </head>
 <body>
-
-<h2>Center a Table</h2>
-<p>To center a table, set left and right margin to auto:</p>
-
 <table class="center">
   <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
   <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $x_v$ </th><th> $f(x_v)$ </th><th >Pantalla            </th></tr>
@@ -286,7 +282,6 @@ table.center {
   <tr><th> El mínimo está en       </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> El mínimo está en      </td></tr>
   <tr><th> Escribir $x_v$        </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> 0                      </td></tr>
 </table>
-
 </body>
 </html>
 
@@ -319,17 +314,12 @@ table.center {
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 </head>
 <body>
-
-<h2>Center a Table</h2>
-<p>To center a table, set left and right margin to auto:</p>
-
-<table class="egt">
+<table class="center">
   <caption>Tabla 2: Paso para implementar la Solución 1.</caption>
   <tr><td>Paso 1</td><td>Evaluar $f(x)=x^2$ en cada uno de los elementos del intervalo $-5\leq x \leq 5$.</td></tr>
   <tr><td>Paso 2</td><td>Ordenar de menor a mayor el valor que tomó $f(x)=x^2$ en el Paso 1. </td></tr>
   <tr><td>Paso 3</td><td>Seleccionar el menor valor como el mínimo de la función. </td></tr>
-</table>
-  
+</table>  
 </body>
 </html>
 
