@@ -321,7 +321,7 @@ table.center {
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 </head>
 <body>
-<table class="center">
+<table class="egt">
   <caption>Tabla 2: Paso para implementar la Solución 1.</caption>
   <thead>
     <tr>
