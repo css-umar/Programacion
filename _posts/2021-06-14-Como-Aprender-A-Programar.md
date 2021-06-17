@@ -299,11 +299,11 @@ table, th, td {
 }
 
 th.Paso{
-  width:50%
+  width:30%
 }
 
 th.Instruccion{
-  width:50%
+  width:70%
 }
 table.center {
   margin-left: auto; 
@@ -340,10 +340,10 @@ table.center {
 
 <table class="egt">
   <caption>Tabla 3: Paso para implementar la Solución 2.</caption>
-  <tr><td>Paso 1</td><td>Calcular $$x_v = -b/2a$$.</td></tr>
-  <tr><td>Paso 2</td><td>Evaluar $$f(x_v)$$. </td></tr>
-  <tr><td>Paso 3</td><td>Si $$a>0$$ la función tiene un mínimo en $$x_v$$</td></tr>
-  <tr><td>Paso 4</td><td>Si $$a<0$$ la función tiene un máximo en $$x_v$$</td></tr>
+  <tr><td width="30%">Paso 1</td><td width="70%">Calcular $$x_v = -b/2a$$.</td></tr>
+  <tr><td width="30%">Paso 2</td><td width="70%">Evaluar $$f(x_v)$$. </td></tr>
+  <tr><td width="30%">Paso 3</td><td width="70%">Si $$a>0$$ la función tiene un mínimo en $$x_v$$</td></tr>
+  <tr><td width="30%">Paso 4</td><td width="70%">Si $$a<0$$ la función tiene un máximo en $$x_v$$</td></tr>
 </table>
 
 <table class="egt">
