@@ -248,7 +248,7 @@ Ley 90/
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
   text-align: left;
   padding: 16px;
 }
@@ -275,36 +275,20 @@ table.center {
 
 <table class="center">
   <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
-  <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $$x_v$$ </th><th> $$f(x_v)$$ </th><th >Pantalla            </th></tr>
+  <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $x_v$ </th><th> $f(x_v)$ </th><th >Pantalla            </th></tr>
   <tr><th>Leer a                   </th><td>           </td><td> 1 </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
   <tr><th>Leer b                   </th><td>           </td><td>   </td><td> 0 </td><td>          </td><td>         </td><td>                       </td></tr>
   <tr><th> $a>0$                </th><td>   Sí      </td><td>   </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
   <tr><th> $x_v = -b/2a$         </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
-  <tr><th> $$f(x_v)$$              </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
-  <tr><th> El mínimo de $$f(x)$$ es</th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> El mínimo de $$f(x)$$ es </td></tr>
-  <tr><th> Escribir $$f(x)$$       </th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> 0                      </td></tr>
+  <tr><th> $f(x_v)$              </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
+  <tr><th> El mínimo de $f(x)$ es</th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> El mínimo de $f(x)$ es </td></tr>
+  <tr><th> Escribir $f(x)$       </th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> 0                      </td></tr>
   <tr><th> El mínimo está en       </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> El mínimo está en      </td></tr>
-  <tr><th> Escribir $$x_v$$        </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> 0                      </td></tr>
+  <tr><th> Escribir $x_v$        </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> 0                      </td></tr>
 </table>
 
 </body>
 </html>
-
-
-
-<table class="egt">
-  <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
-  <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $$x_v$$ </th><th> $$f(x_v)$$ </th><th >Pantalla            </th></tr>
-  <tr><th>Leer a                   </th><td>           </td><td> 1 </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
-  <tr><th>Leer b                   </th><td>           </td><td>   </td><td> 0 </td><td>          </td><td>         </td><td>                       </td></tr>
-  <tr><th> $$a>0$$                 </th><td>   Sí      </td><td>   </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
-  <tr><th> $$x_v = -b/2a$$         </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
-  <tr><th> $$f(x_v)$$              </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
-  <tr><th> El mínimo de $$f(x)$$ es</th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> El mínimo de $f(x)$ es </td></tr>
-  <tr><th> Escribir $$f(x)$$       </th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> 0                      </td></tr>
-  <tr><th> El mínimo está en       </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> El mínimo está en      </td></tr>
-  <tr><th> Escribir $$x_v$$        </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> 0                      </td></tr>
-</table>
 
 
 <table class="egt">
