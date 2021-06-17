@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Algoritmo"
-date:   2021-05-13 16:40:39
+date:   2021-06-13 16:40:39
 categories: Programación
 ---
 
