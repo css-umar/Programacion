@@ -309,6 +309,18 @@ Evalúa si el valor del lado izquierdo es mayor o igual que el valor del lado de
 ## Operadores aritméticos
 Siempre hay que colocar un espacio en blanco, antes y después de un operador.
 
+<table class="center">  
+  <tr><td style = "width:30%"> + </td><td style = "width:70%"> Suma </td></tr>
+  <tr><td style = "width:30%"> - </td><td style = "width:70%"> Resta </td></tr>
+  <tr><td style = "width:30%"> - </td><td style = "width:70%"> Negativo(negación)</td></tr>
+  <tr><td style = "width:30%"> * </td><td style = "width:70%"> Multiplicación </td></tr>
+  <tr><td style = "width:30%"> ** </td><td style = "width:70%"> Exponente </td></tr>
+  <tr><td style = "width:30%"> / </td><td style = "width:70%"> División </td></tr>
+  <tr><td style = "width:30%"> // </td><td style = "width:70%"> División entera </td></tr>
+  <tr><td style = "width:30%"> % </td><td style = "width:70%"> Módulo </td></tr>
+</table>
+
+
 <table class="center">
 |Símbolo|Significado|
 |---|---|
