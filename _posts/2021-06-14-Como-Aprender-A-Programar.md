@@ -262,26 +262,17 @@ table.center {
 <p>To center a table, set left and right margin to auto:</p>
 
 <table class="center">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
+  <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
+  <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $$x_v$$ </th><th> $$f(x_v)$$ </th><th >Pantalla            </th></tr>
+  <tr><th>Leer a                   </th><td>           </td><td> 1 </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
+  <tr><th>Leer b                   </th><td>           </td><td>   </td><td> 0 </td><td>          </td><td>         </td><td>                       </td></tr>
+  <tr><th> $$a>0$$                 </th><td>   Sí      </td><td>   </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
+  <tr><th> $$x_v = -b/2a$$         </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
+  <tr><th> $$f(x_v)$$              </th><td>           </td><td>   </td><td>   </td><td> 0        </td><td>         </td><td>                       </td></tr>
+  <tr><th> El mínimo de $$f(x)$$ es</th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> El mínimo de $f(x)$ es </td></tr>
+  <tr><th> Escribir $$f(x)$$       </th><td>           </td><td>   </td><td>   </td><td>          </td><td>         </td><td> 0                      </td></tr>
+  <tr><th> El mínimo está en       </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> El mínimo está en      </td></tr>
+  <tr><th> Escribir $$x_v$$        </th><td>           </td><td>   </td><td>   </td><td>           </td><td>         </td><td> 0                      </td></tr>
 </table>
 
 </body>
@@ -289,7 +280,7 @@ table.center {
 
 
 
-<table class="egt"">
+<table class="egt">
   <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
   <tr><th scope="col">Instrucción  </th><th> Condición </th><th> a </th><th> b </th><th> $$x_v$$ </th><th> $$f(x_v)$$ </th><th >Pantalla            </th></tr>
   <tr><th>Leer a                   </th><td>           </td><td> 1 </td><td>   </td><td>          </td><td>         </td><td>                       </td></tr>
