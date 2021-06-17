@@ -299,11 +299,11 @@ table, th, td {
 }
 
 th.Paso{
-  width:30%
+  width:70%
 }
 
 th.Instruccion{
-  width:70%
+  width:30%
 }
 table.center {
   margin-left: auto; 
