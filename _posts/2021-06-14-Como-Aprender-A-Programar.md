@@ -190,7 +190,7 @@ La prueba de escritorio para la Solución 2 se muestra en la Tabla 1. En dicha t
 Retomando la **Solución 4**, si se hubiese escogido esa solución, no se requiere hacer cálculo alguno para obtener el mínimo de $$f(x) =x^2$$ porque para cualquier función cuadrática de la forma $$f(x) =ax^2$$ con $$a > 0$$ el mínimo está en el origen.
 
 
-![Figura 1: Diagrama de flujo de la Solución 2.](https://github.com/css-umar/Programacion/blob/master/images/Solucion2.png)
+![Figura 1: Diagrama de flujo de la Solución 2.](https://raw.githubusercontent.com/css-umar/Programacion/master/images/Solucion2.png)
 
 ```
 Algoritmo Solución 2
