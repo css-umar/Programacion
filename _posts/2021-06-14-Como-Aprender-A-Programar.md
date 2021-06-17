@@ -241,6 +241,13 @@ Ley 90/
 
 ## 4. Anexo: Tablas
 
+|Instrucción| Condición | a  | b  | $$x_v$$ | $f(x_v)$$ | Pantalla|
+|---        | ---       |--- |--- | ---     |---        |---      |
+|Leer a     |           | 1  |    |         |           |         |
+
+
+
+
 <table class="egt">
   <caption>Tabla 1: Prueba de escritorio para la Solución 2</caption>
   <tr><th scope="col">Instrucción</th><th>Condición</th><th>a </th><th>b </th><th>$x_v$ </th><th>$f(x_v)$ </th><th>Pantalla               </th></tr>
