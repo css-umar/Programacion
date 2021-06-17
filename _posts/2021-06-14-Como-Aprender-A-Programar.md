@@ -293,11 +293,18 @@ table.center {
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  width: 80%;
+  width: 100%;
   text-align: left;
   padding: 16px;
 }
 
+th.Paso{
+  width:30%
+}
+
+th.Instrucción{
+  width:70%
+}
 table.center {
   margin-left: auto; 
   margin-right: auto;
