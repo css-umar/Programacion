@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Variables, datos y operadores"
-date:   2021-05-31 16:40:39
+date:   2021-06-11 16:40:39
 categories: Programacion
 ---
 
@@ -309,6 +309,7 @@ Evalúa si el valor del lado izquierdo es mayor o igual que el valor del lado de
 ## Operadores aritméticos
 Siempre hay que colocar un espacio en blanco, antes y después de un operador.
 
+<table class="center">
 |Símbolo|Significado|
 |---|---|
 |+ |Suma|
@@ -319,3 +320,4 @@ Siempre hay que colocar un espacio en blanco, antes y después de un operador.
 |/ |División|
 |//|División entera|
 |%|Módulo|
+</table>
