@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cómo aprender a programar: Un método de cinco pasos"
-date:   2021-06-16 13:50:39
+date:   2021-06-14 13:50:39
 categories: Edición
 ---
 
